@@ -1,0 +1,16 @@
+2023-07-08 23:16:01,202 - DEBUG - +++   Starting App   +++
+2023-07-08 23:16:01,202 - DEBUG - Successfully: (1)connected to database  (2)created cursor
+2023-07-08 23:16:01,204 - DEBUG - Successfully completed Part 1: the database updates. Starting part 2.
+2023-07-08 23:16:07,540 - DEBUG - User entered: 1995.
+2023-07-08 23:16:07,540 - DEBUG - Valid entry by user - looking up year in database
+2023-07-08 23:16:07,542 - DEBUG - Matching movie results displayed.
+2023-07-08 23:16:12,575 - DEBUG - User elected to try again.
+2023-07-08 23:16:16,233 - DEBUG - User entered: 3000.
+2023-07-08 23:16:22,592 - DEBUG - User elected to try again.
+2023-07-08 23:16:26,393 - DEBUG - User entered: 1111.
+2023-07-08 23:16:30,184 - DEBUG - User elected to try again.
+2023-07-08 23:16:33,158 - DEBUG - User entered: 1975.
+2023-07-08 23:16:33,158 - DEBUG - Valid entry by user - looking up year in database
+2023-07-08 23:16:33,159 - DEBUG - Matching movie results displayed.
+2023-07-08 23:16:36,177 - DEBUG - Successfully: (1)closed database  (2)Closed cursor.
+2023-07-08 23:16:36,177 - DEBUG - >>>  Exiting app  <<<
